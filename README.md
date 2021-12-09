@@ -1,2 +1,2 @@
 # Video-Player
-Proyecto que realicé siguiendo el curso de Leonidas Esteban (leonidasesteban.com/aprender/desarrollo-web)
+Proyecto que realizo siguiendo el curso de Leonidas Esteban (leonidasesteban.com/aprender/desarrollo-web)
